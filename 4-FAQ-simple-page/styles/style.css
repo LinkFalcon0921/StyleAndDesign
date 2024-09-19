@@ -1,0 +1,46 @@
+:root {
+    --link-color: #4E80EE;
+    --text-color: #030616;
+    --secondary-text-color: #D2D5DA;
+    --header-background-color: #F8FAFC;
+    --background-color: #F8FAFC;
+}
+
+html, body {
+    min-width: 100%;
+    min-height: 100%;
+
+    color: var(--text-color);
+    font-size: 1.122rem;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    padding: 0 1em;
+}
+
+.header-top {
+    text-align: center;
+}
+
+main {
+    padding: 50px 0;
+    min-width: 300px;
+    background-color: var(--background-color);
+}
+
+.question-container {
+    padding: 0 max(25%, 60px);
+}
+
+.question-container a {
+    text-decoration: none;
+}
+
+.question-container a, .question-container a:hover, .question-container a:focus {
+    cursor: default;
+    color: var(--link-color);
+}
