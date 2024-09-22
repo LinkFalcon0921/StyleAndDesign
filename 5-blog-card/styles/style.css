@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+:root {
+    --tag-color: #883AE1;
+    --image-bg-color: #E6D6FC;
+    --title-color: #20293A;
+    --sub-title-color: #6C727F;
+    --border-color: #E5EAF0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    min-width: 100vw;
+    min-height: 100vh;
+
+    color: var(--text-color);
+    font-size: 1.122rem;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #7D84B2;
+}
+
+.blog-card {
+    width: max(400px, 40%);
+    padding: .4em;
+    border-radius: 12px;
+    background-color: var(--image-bg-color);
+
+    box-shadow: 0 30px 100px 0 rgba(17, 23, 41, 0.75);
+    -webkit-box-shadow: 0 30px 100px 0 rgba(17, 23, 41, 0.75);
+    -moz-box-shadow: 0 30px 100px 0 rgba(17, 23, 41, 0.75);
+}
+
+.img-holder {
+    width: 100%;
+    height: max(400px, 20%);
+}
+
+.img-holder img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.chip-section {
+    padding: .21em 0;
+}
+
+.chip {
+    border-radius: 12%;
+    background-color: var(--tag-color);
+    padding: 3px 8px;
+}
+
+main {
+    display: flex;
+    flex-flow: column wrap;
+    gap: .45rem;
+    margin-top: .8em;
+}
+
+main p, main span {
+    color: var(--sub-title-color);
+}
+
+main hr {
+    margin: .45rem 0;
+}
+
+@media screen and (max-width: 768px) {
+    .blog-card {
+        width: 70vw;
+    }
+}

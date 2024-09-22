@@ -1,0 +1,47 @@
+:root {
+    --app-font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+    --background-color: #07181c;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    font-family: var(--app-font-family);
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button-border {
+    background: linear-gradient(115deg, #eeaf61, #fb9062, #ee5d6c, #ce4993, #620d83);
+    padding: 3px;
+    transition: background .4s ease-in;
+}
+
+.button {
+    border: none;
+    background-color: #000;
+    color: #7d7d7d;
+    padding: 1em 2em;
+    font-size: 15px;
+    font-family: inherit;
+    letter-spacing: .17em;
+    transition: padding .2s ease-in, color .7s ease-in;
+}
+
+/*add hovers*/
+.button-border:hover {
+    background: linear-gradient(230deg, #eeaf61, #fb9062, #ee5d6c, #ce4993, #620d83);
+}
+
+.button-border:hover .button {
+    color: white;
+    padding: 1.2em 2.4em;
+}
