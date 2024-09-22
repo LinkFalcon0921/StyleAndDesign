@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff9dd05e-fbc9-4b3e-97eb-e50c7ba21ba7" name="Changes" comment="feat: blog card project done!">
+      <change beforePath="$PROJECT_DIR$/5-blog-card/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-blog-card/styles/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3d9c2969-ded1-4ad0-b16a-a0e8d96f3843" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kwMZwYW3b9apmxGnNYXBKTxeUZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;initial-project&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elior/WebstormProjects/angular_training/StyleAndDesign&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elior\WebstormProjects\angular_training\StyleAndDesign" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff9dd05e-fbc9-4b3e-97eb-e50c7ba21ba7" name="Changes" comment="" />
+      <created>1724190245113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724190245113</updated>
+      <workItem from="1724190246125" duration="2000" />
+      <workItem from="1724190255602" duration="5137000" />
+      <workItem from="1724258097719" duration="1529000" />
+      <workItem from="1724259711599" duration="4713000" />
+      <workItem from="1726715663030" duration="9126000" />
+      <workItem from="1726793905915" duration="677000" />
+      <workItem from="1726795739867" duration="541000" />
+      <workItem from="1726798538927" duration="190000" />
+      <workItem from="1726931600484" duration="2337000" />
+      <workItem from="1726964974673" duration="10247000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding .gitignore.">
+      <option name="closed" value="true" />
+      <created>1724265203153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724265203153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding projects built.">
+      <option name="closed" value="true" />
+      <created>1726715804477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726715804478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: New design added!&#10;&#10;name: FAQ single page.">
+      <option name="closed" value="true" />
+      <created>1726723330463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726723330463</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: blog card project done!">
+      <option name="closed" value="true" />
+      <created>1726974433963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726974433963</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding .gitignore." />
+    <MESSAGE value="adding projects built." />
+    <MESSAGE value="feat: New design added!&#10;&#10;name: FAQ single page." />
+    <MESSAGE value="feat: blog card project done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: blog card project done!" />
+  </component>
+</project>
