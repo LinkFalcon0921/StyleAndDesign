@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alegreya', sans-serif;
+}
+
+.container {
+    position: relative;
+    background: url('../images/background-image-1.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    min-width: 400px;
+}
+
+.container .sidebar-menu {
+    position: fixed;
+    height: 100%;
+    width: 200px;
+    min-width: 24%;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.5);
+    color: #fff;
+}
+
+.container .sidebar-menu > *:not(:last-child) {
+    margin-bottom: 1.45em;
+}
+
+.container .sidebar-menu .logo {
+    padding: 1.3em;
+    width: 100%;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.5);
+}
+
+.sidebar-menu .logo a {
+    color: inherit;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.sidebar-menu .menu li {
+    padding: .5rem;
+    transition: border .3s ease-in-out,
+    box-shadow .3s ease-in-out;
+}
+
+.sidebar-menu .menu li:hover {
+    border-left: 2px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+}
+
+.sidebar-menu .menu li i {
+    margin-right: 1rem;
+}
+
+.sidebar-menu .menu li a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.3em;
+}
+.sidebar-menu .social-medias {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sidebar-menu .social-medias a {
+    color: inherit;
+    opacity: .6;
+    transition: transform .6s ease-in-out,
+    opacity .6s ease-in-out;
+}
+
+.sidebar-menu .social-medias a:hover {
+    opacity: 1;
+    transform: scale(1.4);
+}

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff9dd05e-fbc9-4b3e-97eb-e50c7ba21ba7" name="Changes" comment="feat: Tab notes project done!&#10;&#10;different logic used from tutorial used!">
+    <list default="true" id="ff9dd05e-fbc9-4b3e-97eb-e50c7ba21ba7" name="Changes" comment="refactor: updates in styles in tab view project.">
+      <change afterPath="$PROJECT_DIR$/7-dynamic-sidebar/images/background-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-dynamic-sidebar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-dynamic-sidebar/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-tab-view-text/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/6-tab-view-text/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -94,7 +96,7 @@
       <workItem from="1726931600484" duration="2337000" />
       <workItem from="1726964974673" duration="10247000" />
       <workItem from="1727025733216" duration="29254000" />
-      <workItem from="1727108255752" duration="135000" />
+      <workItem from="1727108255752" duration="8976000" />
     </task>
     <task id="LOCAL-00001" summary="adding .gitignore.">
       <option name="closed" value="true" />
@@ -136,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727081552854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactor: updates in styles in tab view project.">
+      <option name="closed" value="true" />
+      <created>1727108580132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727108580132</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +158,7 @@
     <MESSAGE value="feat: New design added!&#10;&#10;name: FAQ single page." />
     <MESSAGE value="feat: blog card project done!" />
     <MESSAGE value="feat: Tab notes project done!&#10;&#10;different logic used from tutorial used!" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Tab notes project done!&#10;&#10;different logic used from tutorial used!" />
+    <MESSAGE value="refactor: updates in styles in tab view project." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: updates in styles in tab view project." />
   </component>
 </project>
