@@ -77,15 +77,20 @@ body {
     transition: top .5s ease-in-out;
 }
 
-.body-content {
+#content .body-content {
     position: relative;
     overflow-y: auto;
     max-height: 100%;
+
+    border-radius: 12px;
 }
 
 .body-content section {
     position: absolute;
     transition: transform .5s ease-in-out;
+
+    padding: 0 1em 1em;
+    background-color: #f2f2f9;
 }
 
 .body-content section:not(.section-shown) {
