@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tab Data List</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="https://kit.fontawesome.com/c277222853.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h2>Blog Note Tabs</h2>
+    </header>
+    <hr>
+    <div id="content">
+        <div class="check-holder">
+            <input type="radio" name="indicator" id="home-check" checked>
+            <input type="radio" name="indicator" id="dog-check">
+            <input type="radio" name="indicator" id="cat-check">
+            <input type="radio" name="indicator" id="bird-check">
+            <input type="radio" name="indicator" id="cow-check">
+        </div>
+        <div class="tabs-list">
+            <label for="home-check" class="home-lab">
+                <i class="fa-solid fa-home"></i>
+                <span class="topic">Home</span>
+            </label>
+            <label for="dog-check" class="dog-lab">
+                <i class="fa-solid fa-dog"></i>
+                <span class="topic">Dogs</span>
+            </label>
+            <label for="cat-check" class="cat-lab">
+                <i class="fa-solid fa-cat"></i>
+                <span class="topic">Cats</span>
+            </label>
+            <label for="bird-check" class="bird-lab">
+                <i class="fa-solid fa-dove"></i>
+                <span class="topic">Birds</span>
+            </label>
+            <label for="cow-check" class="cow-lab">
+                <i class="fa-solid fa-cow"></i>
+                <span class="topic">Cows</span>
+            </label>
+            <div class="indicator"></div>
+        </div>
+        <div class="body-content">
+            <section id="home-section">
+                <h2>What is it about?</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci, assumenda culpa delectus eaque eveniet explicabo magni molestiae, odit officiis quae recusandae rem tempore. Aut consequuntur doloremque excepturi nihil saepe!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci, assumenda culpa delectus eaque eveniet explicabo magni molestiae, odit officiis quae recusandae rem tempore. Aut consequuntur doloremque excepturi nihil saepe!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci, assumenda culpa delectus eaque eveniet explicabo magni molestiae, odit officiis quae recusandae rem tempore. Aut consequuntur doloremque excepturi nihil saepe!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci, assumenda culpa delectus eaque eveniet explicabo magni molestiae, odit officiis quae recusandae rem tempore. Aut consequuntur doloremque excepturi nihil saepe!</p>
+            </section>
+            <section id="dog-section">
+                <h2><i>What does dog eat?</i></h2>
+            </section>
+            <section id="cat-section">
+                <h2><i>Why does cats sleep most of the time?</i></h2>
+            </section>
+            <section id="birds-section">
+                <h2><i>National bird of Dominican Republic</i></h2>
+            </section>
+            <section id="cow-section">
+                <h2><i>How much milk can <strong>cows</strong> make in a bad season?</i></h2>
+            </section>
+        </div>
+    </div>
+</div>
+<script src="js/main.js" type="module"></script>
+</body>
+</html>
